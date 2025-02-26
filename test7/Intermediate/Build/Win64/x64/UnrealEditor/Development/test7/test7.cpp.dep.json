@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kotar\\downloads\\github\\test7\\test7\\source\\test7\\test7.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kotar\\downloads\\github\\test7\\test7\\intermediate\\build\\win64\\x64\\test7editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kotar\\downloads\\github\\test7\\test7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test7\\definitions.test7.h",
+            "c:\\users\\kotar\\downloads\\github\\test7\\test7\\source\\test7\\test7.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

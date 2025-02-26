@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\test7.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\test7.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\test7Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\test7">
+      <UniqueIdentifier>{7AF84380-ED28-3BAC-91B6-528EBEA69BAA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\test7\test7.Build.cs">
+      <Filter>Source\test7</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\test7\test7.cpp">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7.h">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7Character.cpp">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7Character.h">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7GameMode.cpp">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7GameMode.h">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7PickUpComponent.cpp">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7PickUpComponent.h">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7Projectile.cpp">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7Projectile.h">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7WeaponComponent.cpp">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\test7\test7WeaponComponent.h">
+      <Filter>Source\test7</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
